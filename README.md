@@ -1,5 +1,5 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My name is Sergey from Moscow 🌆 I'm Learning ML for became Data Scientist. 
+My name is Sergey. I'm from Moscow 🌆 I'm Learning ML for became Data Scientist. 
 
 
 - 🔭 I’m currently studying Data Science in the course of Netology [GitHub](https://github.com/netology-code/ds3-spring-2018)
