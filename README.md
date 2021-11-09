@@ -3,7 +3,7 @@ My name is Sergey. I'm from Moscow 🌆 I'm Learning ML for became Data Scientis
 
 
 - 🔭 I’m currently studying Data Science in the course of Netology [GitHub](https://github.com/netology-code/ds3-spring-2018)
-- 🤔 Now I'm learning NLP with using PySpark
+- 🤔 Now I'm learning recommender systems with using PySpark
 - 💬 How to reach me: [Telegram](https://t.me/ghiopinion)
 - 🤔 I’m looking for mentoring in DS.
 
