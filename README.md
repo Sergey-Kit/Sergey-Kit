@@ -1,15 +1,14 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My name is Sergey. I'm from Moscow 🌆 I'm Learning ML for became Data Scientist. 
+My name is Sergey. I'm from Moscow 🌆 I'm Learning ML.
 
-
-- 🔭 I’m currently studying Data Science in the course of Netology [GitHub](https://github.com/netology-code/ds3-spring-2018)
-- 🤔 Now I'm learning recommender systems with using PySpark
+- 🔭 I’m currently studying Data Science.
+- 🤔 Now I'm learning statistics)
 - 💬 How to reach me: [Telegram](https://t.me/ghiopinion)
 - 🤔 I’m looking for mentoring in DS.
 
 ### Skills
-- 👨‍💻 Python
-- 👁️ pandas, numpy, sklearn, matplotlib, seaborn, xgboost/catboost, plotly
+- 👨‍💻 Python, MS SQL
+- 👁️ pandas, numpy, sklearn, matplotlib, seaborn, xgboost/catboost, plotly, statsmodel
 
 ### Contact Me !
 
