@@ -1,14 +1,14 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 My name is Sergey. I'm from Moscow 🌆 I'm Learning ML.
 
-- 🔭 I’m currently studying Data Science.
-- 🤔 Now I'm learning statistics)
+- 🔭 I’m currently working on face recognition.
+- 🤔 Now I'm learning Object-oriented programming)
 - 💬 How to reach me: [Telegram](https://t.me/ghiopinion)
-- 🤔 I’m looking for mentoring in DS.
+- 🤔 I’m looking for like-minded people in DS.
 
 ### Skills
-- 👨‍💻 Python, MS SQL
-- 👁️ pandas, numpy, sklearn, matplotlib, seaborn, xgboost/catboost, plotly, statsmodel
+- 👨‍💻 Python, MS SQL, Git, Bash
+- 👁️ pandas, numpy, sklearn, matplotlib, pytorch, tensorflow, xgboost/catboost, plotly, statsmodel
 
 ### Contact Me !
 
