@@ -1,5 +1,6 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 My name is Sergey. I'm from Moscow 🌆 I'm Learning ML.
+Check out my emotion detection Telegram bot @Emotion_Recog_Bot. Upload a photo and get an emotion in return.
 
 - 🔭 I’m currently working on face recognition.
 - 🤔 Now I'm learning Object-oriented programming)
